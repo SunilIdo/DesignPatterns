@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtoTypePattern", "ProtoTypePattern\ProtoTypePattern.csproj", "{6BDC36EC-FBF2-475C-B404-6EC00B416398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{3859E056-2A75-4528-8F29-DEF15AD1C0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{1E55BC01-E32D-44FC-8B86-F89DBC038233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDC36EC-FBF2-475C-B404-6EC00B416398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDC36EC-FBF2-475C-B404-6EC00B416398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDC36EC-FBF2-475C-B404-6EC00B416398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDC36EC-FBF2-475C-B404-6EC00B416398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3859E056-2A75-4528-8F29-DEF15AD1C0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3859E056-2A75-4528-8F29-DEF15AD1C0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3859E056-2A75-4528-8F29-DEF15AD1C0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3859E056-2A75-4528-8F29-DEF15AD1C0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E55BC01-E32D-44FC-8B86-F89DBC038233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E55BC01-E32D-44FC-8B86-F89DBC038233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E55BC01-E32D-44FC-8B86-F89DBC038233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E55BC01-E32D-44FC-8B86-F89DBC038233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
